@@ -1,0 +1,33 @@
+.container{
+    border: 2px solid black;
+}
+.header{
+    border-bottom: 2px solid black;
+    height:60px;
+    background-color: darkslategray;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.ma{
+    background-color: aliceblue;
+    overflow: auto;
+}
+
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 260px;
+    float:left;
+    margin:10px;
+    padding: 10px;
+}
+
+.female{
+    border:2px solid hotpink;
+    background-color:pink;
+}
+
+.male{
+    border:2px solid blue;
+    background-color: cadetblue;
+}
